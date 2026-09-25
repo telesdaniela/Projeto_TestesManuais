@@ -42,7 +42,7 @@ Aplicar conceitos e boas práticas de Quality Assurance por meio da criação e 
 A documentação gerada durante a execução dos testes está organizada nos seguintes artefatos:
 
 * 📊 **Informações Guia** — Planilha contendo os casos de teste executados, disponível para visualização e download no [[Google Sheets](https://docs.google.com/document/d/1rz9JX6c-UR-pBDeoy8HNhDAKHkXs9t-qKzwzQBKNS3o/edit?usp=sharing)]
-* 📝 **Casos de Teste** — Cenários de teste, pré-condições, passos de execução, resultados esperados e resultados obtidos. [[Acessar documentação de Casos de Teste](https://docs.google.com/spreadsheets/d/12hmXU2peEi6b0g4M8rDiVju--5AaEj1Bw8bsYcDgeSI/edit?usp=sharing)
+* 📝 **Casos de Teste** — Cenários de teste, pré-condições, passos de execução, resultados esperados e resultados obtidos. [[Acessar documentação de Casos de Teste](https://docs.google.com/spreadsheets/d/12hmXU2peEi6b0g4M8rDiVju--5AaEj1Bw8bsYcDgeSI/edit?usp=sharing)](https://docs.google.com/spreadsheets/d/1NOkq_XeY3r83l4RkI88XnpvQoBHJx0UIiNdd5ITQdpo/edit?usp=sharing)]
 * 🐛 **Bug Report** — Registro detalhado dos defeitos identificados durante os testes. [[Acessar documentação de Bug Reports](INSIRA_O_LINK_AQUI).](https://docs.google.com/spreadsheets/d/1NOkq_XeY3r83l4RkI88XnpvQoBHJx0UIiNdd5ITQdpo/edit?usp=share_link)
 
 ---
