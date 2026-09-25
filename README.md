@@ -43,10 +43,7 @@ A documentação gerada durante a execução dos testes está organizada nos seg
 
 * 📊 **Informações Guia** — Planilha contendo os casos de teste executados, disponível para visualização e download no [[Google Sheets](https://docs.google.com/document/d/1rz9JX6c-UR-pBDeoy8HNhDAKHkXs9t-qKzwzQBKNS3o/edit?usp=sharing)]
 * 📝 **Casos de Teste** — Cenários de teste, pré-condições, passos de execução, resultados esperados e resultados obtidos. [[Acessar documentação de Casos de Teste](https://docs.google.com/spreadsheets/d/12hmXU2peEi6b0g4M8rDiVju--5AaEj1Bw8bsYcDgeSI/edit?usp=sharing)
-* 🐛 **Bug Report** — Registro detalhado dos defeitos identificados durante os testes. [Acessar documentação de Bug Reports](INSIRA_O_LINK_AQUI).
-* 📋 **Relatório de Inconsistências** — Documentação das inconsistências observadas na aplicação. [Acessar documentação de Relatório de Inconsistências](INSIRA_O_LINK_AQUI).
-* ⚠️ **Lista de Erros Encontrados** — Registro dos problemas identificados durante os testes, incluindo erros confirmados e observações de comportamentos que necessitam de análise adicional. [Acessar documentação de Lista de Erros Encontrados](INSIRA_O_LINK_AQUI).
-* 📈 **Relatório Comportamental** — Análise comparativa entre o comportamento esperado e o comportamento observado da aplicação durante a execução dos testes. [Acessar Relatório Comportamental](INSIRA_O_LINK_AQUI).
+* 🐛 **Bug Report** — Registro detalhado dos defeitos identificados durante os testes. [[Acessar documentação de Bug Reports](INSIRA_O_LINK_AQUI).](https://docs.google.com/spreadsheets/d/1NOkq_XeY3r83l4RkI88XnpvQoBHJx0UIiNdd5ITQdpo/edit?usp=share_link)
 
 ---
 
