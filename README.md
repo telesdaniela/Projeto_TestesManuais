@@ -1,24 +1,55 @@
-# 🧪 Central de Testes Manuais
+# 🔍 QAzando Testes Manuais e sua Documentação
 
-Este repositório organiza todos os cenários de teste funcionais do sistema.
+Projeto prático desenvolvido durante a mentoria QA Master da QAzando, com foco na execução de testes manuais em uma aplicação web.
 
-## 👥 Funcionalidade: Tela de Login
-
-### CT001: Login com sucesso
-* **Pré-condição:** Usuário já deve estar cadastrado no sistema.
-* **Passo a Passo:**
-  1. Acessar a página de login.
-  2. Preencher o e-mail correto e a senha correta.
-  3. Clicar no botão "Entrar".
-* **Resultado Esperado:** O sistema deve autenticar o usuário e abrir a tela do Dashboard principal.
+O projeto contempla o planejamento, execução e documentação dos testes, simulando atividades desempenhadas por um Analista de QA em um ambiente de desenvolvimento de software.
 
 ---
 
-### CT002: Login com senha incorreta
-* **Pré-condição:** Usuário já deve estar cadastrado no sistema.
-* **Passo a Passo:**
-  1. Acessar a página de login.
-  2. Preencher o e-mail correto.
-  3. Preencher uma senha errada.
-  4. Clicar no botão "Entrar".
-* **Resultado Esperado:** O sistema deve exibir o alerta "E-mail ou senha inválidos" e manter o usuário na mesma página.
+## 🎯 Meu Objetivo
+
+Aplicar conceitos e boas práticas de Quality Assurance por meio da criação e execução de casos de teste, validação de funcionalidades, identificação de defeitos e documentação dos resultados obtidos durante o processo de testes.
+
+---
+
+## 📌 Atividades realizadas
+
+* Criação e execução de casos de teste funcionais;
+* Elaboração de cenários de teste positivos e negativos;
+* Validação das regras de negócio da aplicação;
+* Identificação e documentação de defeitos (Bug Report);
+* Registro de inconsistências encontradas durante a execução dos testes;
+* Organização da documentação e das evidências de testes.
+
+---
+
+## 🛠️ Ferramentas e conceitos aplicados
+
+* Testes Manuais
+* Casos de Teste
+* Cenários de Teste
+* Bug Report
+* Documentação de Qualidade
+* Excel / Google Sheets
+* Markdown
+* Git
+* GitHub
+
+---
+
+## 📄 Documentação do Projeto
+
+A documentação gerada durante a execução dos testes está organizada nos seguintes artefatos:
+
+* 📊 **Matriz de Testes** — Planilha contendo os casos de teste executados, disponível para visualização e download no [Google Sheets](INSIRA_O_LINK_AQUI).
+* 📝 **Casos de Teste** — Cenários de teste, pré-condições, passos de execução, resultados esperados e resultados obtidos. [Acessar documentação de Casos de Teste](INSIRA_O_LINK_AQUI).
+* 🐛 **Bug Report** — Registro detalhado dos defeitos identificados durante os testes. [Acessar documentação de Bug Reports](INSIRA_O_LINK_AQUI).
+* 📋 **Relatório de Inconsistências** — Documentação das inconsistências observadas na aplicação. [Acessar documentação de Relatório de Inconsistências](INSIRA_O_LINK_AQUI).
+* ⚠️ **Lista de Erros Encontrados** — Registro dos problemas identificados durante os testes, incluindo erros confirmados e observações de comportamentos que necessitam de análise adicional. [Acessar documentação de Lista de Erros Encontrados](INSIRA_O_LINK_AQUI).
+* 📈 **Relatório Comportamental** — Análise comparativa entre o comportamento esperado e o comportamento observado da aplicação durante a execução dos testes. [Acessar Relatório Comportamental](INSIRA_O_LINK_AQUI).
+
+---
+
+## 👤 Autor
+
+**Daniela Rodrigues Teles**
